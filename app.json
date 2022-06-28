@@ -1,11 +1,11 @@
 {
-	"name": "Bottus",
-	"description": " Whatsapp bot.",
+	"name": "ALEXA QUEEN V3",
+	"description": "alexa queen is Whatsapp bot created by cyberxkid with bailey's.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/CYBERXKID/alexa-queen-v3",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "💗,CYBERXKID 💗"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
