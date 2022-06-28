@@ -16,7 +16,7 @@ bot(
 						{
 							urlButton: {
 								text: 'Example',
-								url: 'https://github.com/lyfe00011/whatsapp-bot-md/wiki/antifake',
+								url: 'https://github.com/CYBERXKID/alexa-queen-v3/wiki/antifake',
 							},
 						},
 						{ button: { id: 'antifake list', text: 'LIST' } },
