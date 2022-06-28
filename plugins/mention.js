@@ -21,7 +21,7 @@ bot(
 						{
 							urlButton: {
 								text: 'example',
-								url: 'https://github.com/lyfe00011//whatsapp-bot-md/wiki/mention_example',
+								url: 'https://github.com/CYBERXKID/alexa-queen-v3/wiki/mention_example',
 							},
 						},
 						{ button: { id: 'mention on', text: 'ON' } },
