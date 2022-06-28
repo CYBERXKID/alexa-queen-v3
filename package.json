@@ -5,12 +5,12 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "pm2 start . --attach"
+		"start": "pm2 start . --attach",
 	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@adiwajshing/baileys": "git+https://github.com/lyfe00011/Baileys.git",
+		"@adiwajshing/baileys": "git+https://github.com/CYBERXKIDBaileys.git",
 		"axios": "^0.27.2",
 		"browser-id3-writer": "^4.4.0",
 		"cheerio": "^1.0.0-rc.10",
