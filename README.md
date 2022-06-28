@@ -3,7 +3,7 @@
 <div align="center">
   <img border-radius: 15px src="https://te.legra.ph/file/aaeedc5cc365be576c9d3.jpg/Alexaqueen.png" width="400" height="400"/>
   <p align="center">
-<a href="#"><img title="Alexa_V2" src="https://img.shields.io/badge/Alexa_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Alexa_V3" src="https://img.shields.io/badge/Alexa_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
